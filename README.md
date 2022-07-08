@@ -8,8 +8,21 @@ Steve has recently graduated with his finance degree. His parents are very proud
 Steve has provided a large list of stocks with extensive data. The dataset is simply too large to analyze manually and can open room for error. Hence why he has come to ask for our assistance in automating these processes. With the use of VBA and functions like "for loops" and "if functions", we were able to completely automate the process for him. Not only that but we went a step further to refactor the code and make it run quicker and more efficiently. 
 
 ## Results
-<img src="https://github.com/yaakoum/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="500" height="300" />
-<img src="https://github.com/yaakoum/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width="500" height="300" />
+As menioned in the overview, there were two major takeaways from this project:
+1. The analysis has been automated and Steve can now assist his parents in diversifying their portfolio;
+2. The code has been refactored and optimized making it more efficient and able to take on more data if Steve chooses to analyze more stocks.
+
+### Automation 
+<img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2017.png" width="400" height="300" />                 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2018.pngpng" width="400" height="300" />
+
+Through the use of Visual Basics for Application (VBA), we were able to utilize many functions, variables, and arguments to automatically analyze the stocks Steve provided. As seen in the photo above there were major differences in the performance of most of these stocks between 2017 and 2018. The only stocks that continued to perform well in consecutive years were:
+
+
+
+
+https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2018.png
+
+<img src="https://github.com/yaakoum/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="400" height="300" />                 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width="400" height="300" />
 
 ## Summary
 
