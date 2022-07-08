@@ -1,4 +1,4 @@
-# stock-analysis
+# Stock-analysis
 To view the results first hand, please click this link to access the Excel file: [VBA Challenge - Stock Analysis](https://github.com/yaakoum/stock-analysis/blob/main/VBA_Challenge.xlsm)
 
 ## Overview of Project
@@ -82,8 +82,8 @@ Most of the remaining code remained relatively the same aside from the above. Wh
 ## Summary
 
 ### Pros and Cons of Using Refactored Code
-- The highest likelyhood for Louise to succeed with her campaign launch would be for her to launch in May. Based on the data used, she would be twice as likely to succeed than fail or cancel her campaign.
-- On the contrary, the worst time for her to launch her campaign would be in December. Compared to May, there was less than a third of the number of successful campaigns in December and was almost the same as the number of failed that month.
+- Refactoring code is extremely beneficial for many reasons. Refactoring makes the code more efficient by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Overall, it allows a code to run better and smoother.
+- On the other hand, there are some disadvantages to refactoring code and it is primarily to do with the fact that its so complex. The complexity can also result in more time consumption. Although very rewarding, if it is not needed it may not always be the best decision.
 ### How These Pros and Cons Impacted the Original Data
-- It is very clear that Louise cuts her chances for success significantly if she chooses to make her goal higher or near $15k. As per the chart analysis 50% failed at that goal range. Although 67% succeeded between the $35k-$45k range, the quantity of campaigns in that range only totaled to 9. Meaning if she expects her budget to be higher than $10k, I would highly suggest to stay as close to the $10k range or even try to go lower to help her chances to succeed.
+- Luckily in this case, it was not too difficult nor time consuming and as such only resulted in benefits. We encountered a code that is simpler to understand, quicker to run, and can easily be reused. Now if steve would like to add more data to the list by including more stocks, a simiple change can be made for the code to function. More importantly, it will be able to run through more data with 3.5 times the speed. This can become more significant once the dataset becomes very large and uses a lot of memory.
 
