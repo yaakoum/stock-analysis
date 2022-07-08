@@ -13,15 +13,11 @@ As menioned in the overview, there were two major takeaways from this project:
 2. The code has been refactored and optimized making it more efficient and able to take on more data if Steve chooses to analyze more stocks.
 
 ### Automation 
-<img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2017.png" width="400" height="300" />                 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2018.pngpng" width="400" height="300" />
+<img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2017.png" width="200" height="200" />                 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2018.png" width="200" height="200" />
 
-Through the use of Visual Basics for Application (VBA), we were able to utilize many functions, variables, and arguments to automatically analyze the stocks Steve provided. As seen in the photo above there were major differences in the performance of most of these stocks between 2017 and 2018. The only stocks that continued to perform well in consecutive years were:
+Through the use of Visual Basics for Application (VBA), we were able to utilize many functions, variables, and arguments to automatically analyze the stocks Steve provided. As seen in the photo above there were major differences in the performance of most of these stocks between 2017 and 2018. The only stocks that continued to perform well in consecutive years were ENPH and RUN. The other Major finding is that DQ's performance dropped severly and is the very reason for Steve's concern of his parent's lack of diversification. However, this automated analysis now provides Steve with a few options to consider when offering new investment options to his parents.
 
-
-
-
-https://github.com/yaakoum/stock-analysis/blob/main/Stock%20performance/Stock_Performance_2018.png
-
+### Refactorization 
 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Resources/VBA_Challenge_2017.png" width="400" height="300" />                 <img src="https://github.com/yaakoum/stock-analysis/blob/main/Resources/VBA_Challenge_2018.png" width="400" height="300" />
 
 ## Summary
