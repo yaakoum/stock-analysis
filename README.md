@@ -37,11 +37,10 @@ As you can tell, there was a major boost in perforamnce after refactoring the co
 
 In addition to make it work this way, we would have to activate different sheets multiple times and flip between them. The refactored code is much more clever in allowing us to activate the sheet to input all the data we need once, then activate the other sheet to output all that data for visualization once. The bulk of the change had to do with avoided nested for loops and flipping between sheets multiple times. This was achieved by creating a variable for a tickerIndex and creating 3 more arrays to be placeholders for each ticker symbol. Here is a preview of the code that made this possible:
 
-'1a) Create a ticker Index
+
     Dim tickerIndex As Integer
     tickerIndex = 0
 
-    
     Dim tickerVolumes(12) As Single
     Dim tickerStartingPrices(12) As Single
     Dim tickerEndingPrices(12) As Single
